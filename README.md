@@ -1,1 +1,1 @@
-# DL-Lab02
+# Deep Learning Lab 02 - IT22267368
